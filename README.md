@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **ongadrian30@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FEAB-9olshWYUpjeJHJQy0VqygNat1r3/view?usp=sharing]([https://drive.google.com/file/d/1FEAB-9olshWYUpjeJHJQy0VqygNat1r3/view?usp=sharing](https://drive.google.com/file/d/1CCyZc5xqM_3ayujpQEt10UEFelL4j64J/view))
-
 - ⚡ Fun fact **I love working out and going to the gym**
 
 <h3 align="left">Connect with me:</h3>
