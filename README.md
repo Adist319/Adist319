@@ -1,7 +1,7 @@
 <div align="center">
 
-# 💫 About Me:
-🔭 I'm currently working on a Spotify AI client<br>
+# 💫 Some things about me:
+🔭 I'm currently working on a <a href="https://github.com/Adist319">Spotify AI client</a><br>
 🌱 I'm currently learning Next.js<br>
 💬 Ask me about Python, C++, Java<br>
 ⚡ Fun fact: I love working out!
