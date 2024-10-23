@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">A developer passionate about writing clean and functional code. Looking forward to contributing to open-source.</h3>
 
-- 🔭 I’m currently working on [Evento](https://github.com/Adist319/evento)
+- 🔭 I’m currently working on [Spotify AI Client]([https://github.com/Adist319/evento](https://github.com/Adist319/spotify-ai-stuff))
 
 - 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on [Next.js Open Source](https://github.com/vercel/next.js)
 
-- 💬 Ask me about **Python, C++**
+- 💬 Ask me about **Python, C++, Java**
 
 - 📫 How to reach me **ongadrian30@gmail.com**
 
