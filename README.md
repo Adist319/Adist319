@@ -1,6 +1,6 @@
 <div align="center">
 
-Check out my <a href="[https://drive.google.com/file/d/1dc18M4SKIrUHhdKwsPjFzI4y_pHEhCze/view?usp=sharing](https://drive.google.com/file/d/17a8L9jKDV5SoeovK56CDqedYcygfa08q/view?usp=sharing)">resume</a>!
+Check out my <a href="https://drive.google.com/file/d/17a8L9jKDV5SoeovK56CDqedYcygfa08q/view?usp=sharing">resume</a>!
 
 # 💫 Some things about me:
 🔭 I'm currently working on a <a href="https://github.com/Adist319">Spotify AI client</a><br>
