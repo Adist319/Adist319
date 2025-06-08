@@ -3,7 +3,7 @@
 Check out my <a href="https://drive.google.com/file/d/17a8L9jKDV5SoeovK56CDqedYcygfa08q/view?usp=sharing">resume</a>!
 
 # 💫 Some things about me:
-🔭 I'm currently working on a <a href="https://github.com/facebook/pyrefly">Pyrefly</a><br>
+🔭 I'm currently working on <a href="https://github.com/facebook/pyrefly">Pyrefly</a><br>
 🌱 I'm currently learning Rust<br>
 💬 Ask me about Python, C++, Java<br>
 ⚡ Fun fact: I love working out!
