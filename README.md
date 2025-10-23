@@ -1,6 +1,6 @@
 <div align="center">
 
-Check out my <a href="https://drive.google.com/file/d/17a8L9jKDV5SoeovK56CDqedYcygfa08q/view?usp=sharing">resume</a>!
+Check out my <a href="[https://drive.google.com/file/d/17a8L9jKDV5SoeovK56CDqedYcygfa08q/view?usp=sharing](https://drive.google.com/file/d/1-Eyw-dvQhp9WpmpJ6mkLRHnbEQNfXGqG/view?usp=sharing)">resume</a>!
 
 # 💫 Some things about me:
 🔭 I'm currently working on <a href="https://github.com/facebook/pyrefly">Pyrefly</a><br>
