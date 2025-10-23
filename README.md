@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://github.com/Adist319/Adist319/blob/main/profile.png" width="100%" alt="Adrian Ong GitHub Banner"/>
+</div>
+
+<div align="center">
 
 Check out my <a href="https://drive.google.com/file/d/1-Eyw-dvQhp9WpmpJ6mkLRHnbEQNfXGqG/view?usp=sharing">resume</a>!
 
